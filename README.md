@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1720-crawler-log-folder](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Stack
