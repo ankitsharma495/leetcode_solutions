@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -55,5 +56,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
