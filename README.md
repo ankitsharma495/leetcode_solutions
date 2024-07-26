@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0792-binary-search) |
 | [1720-crawler-log-folder](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankitsharma495/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -51,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
