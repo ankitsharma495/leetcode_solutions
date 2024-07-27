@@ -4,7 +4,7 @@ public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int n = nums.size();
        int  lb =  lower_bound(nums.begin(),nums.end(),target)- nums.begin();
-       int ub = lower_bound(nums.begin(), nums.end(), target+1) - nums.begin()-1;
+       int ub = upper_bound(nums.begin(), nums.end(), target) - nums.begin()-1;
         if(lb < nums.size() && nums[lb] == target) {
              return {lb, ub};
          }           
