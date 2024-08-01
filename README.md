@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Simulation
 |  |
