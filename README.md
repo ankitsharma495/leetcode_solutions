@@ -73,4 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
