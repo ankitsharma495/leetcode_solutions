@@ -107,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
