@@ -28,10 +28,7 @@ public:
     //   int ans = skip + first + second;
 
       arr[i][seq1][seq2] = (1LL * skip + first + second) % MOD;
-
       return arr[i][seq1][seq2];
-
-
 
     }
 
