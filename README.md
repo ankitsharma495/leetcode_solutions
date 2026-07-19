@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0316-remove-duplicate-letters](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [1720-crawler-log-folder](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 ## Sorting
 |  |
@@ -129,4 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankitsharma495/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitsharma495/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitsharma495/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
