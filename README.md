@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0792-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1720-crawler-log-folder](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1720-crawler-log-folder) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitsharma495/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitsharma495/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitsharma495/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitsharma495/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankitsharma495/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitsharma495/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
